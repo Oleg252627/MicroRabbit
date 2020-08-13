@@ -14,7 +14,7 @@ D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debu
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.csprojAssemblyReference.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.AssemblyInfoInputs.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.AssemblyInfo.cs
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.csproj.CoreCompileInputs.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.csproj.CopyComplete
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.csproj.CoreCompileInputs.cache

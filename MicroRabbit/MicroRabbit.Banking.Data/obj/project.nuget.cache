@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/jmzMMYd1n1cu2L1HLG+Pv2uEgEjS8R3f8e878BmWdxBg7QZgJqjMya6Z3BmiilHtJKBZW/DnIt4Nzc6OOJBfQ==",
+  "dgSpecHash": "SEJTZKV3pYGuo7j+/ii8V0mloLMYYW1YeSwJCZUJNdrHJbW/kHfULw5TBY2ymu2a9mvoUyhb3M0LcaqDiV12Iw==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\oplet\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

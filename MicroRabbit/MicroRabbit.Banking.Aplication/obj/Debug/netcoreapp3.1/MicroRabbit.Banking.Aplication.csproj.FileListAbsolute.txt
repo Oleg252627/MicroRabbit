@@ -10,3 +10,5 @@ D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Aplication.csproj.CopyComplete
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Aplication.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Aplication.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Aplication\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

@@ -13,3 +13,5 @@ D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\D
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.genruntimeconfig.cache
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

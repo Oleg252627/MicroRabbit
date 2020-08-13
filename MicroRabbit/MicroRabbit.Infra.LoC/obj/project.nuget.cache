@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4znB7ciN7oi3lMcs7ma76DhlH/a5j5vHbmUb0l8U1UCxV+gm5QXv3Q9oiOoJ/WXSdrhmfD8ajeqe+2dI5p0bYw==",
+  "dgSpecHash": "2t3UTvLwMtq9XWSGPF3fuS5somnDZc6emUzybN/k1h/Bd50OUdm5nlnTFiFsqw0k87ix+u04kpTnjeF5ybfQfA==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.LoC\\MicroRabbit.Infra.LoC.csproj",
   "expectedPackageFiles": [

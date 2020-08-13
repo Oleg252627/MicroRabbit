@@ -1427,6 +1427,10 @@
       "MicroRabbit.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.1.0",
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
         },
@@ -5470,6 +5474,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "MediatR >= 8.1.0",
       "MicroRabbit.Banking.Aplication >= 1.0.0",
       "MicroRabbit.Banking.Data >= 1.0.0",
       "MicroRabbit.Domain.Core >= 1.0.0",
@@ -5535,6 +5540,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "MediatR": {
+            "target": "Package",
+            "version": "[8.1.0, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[3.1.7, )"

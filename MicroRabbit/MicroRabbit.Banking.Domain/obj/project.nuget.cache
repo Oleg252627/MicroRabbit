@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+u2C2DytGqzjVhoQfVBLyh6A5bAm0tUnWnnQjadsmCxu2wsikMP//CEViaCuUMOp6ye/FDn9UQpPBZEXd7n7IA==",
+  "dgSpecHash": "gR9Mq6PUpFJxxjN9nmJ5eF/rhzCGGYRfc3wesh6XoGTkKjDYCwO4lpjZ61l4AD66Eye/P9mkRXh1L2wQj5XYkw==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\oplet\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

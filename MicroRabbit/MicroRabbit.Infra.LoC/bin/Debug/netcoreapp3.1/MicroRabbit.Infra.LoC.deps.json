@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "MicroRabbit.Infra.LoC/1.0.0": {
         "dependencies": {
+          "MediatR": "8.1.0",
           "MicroRabbit.Banking.Aplication": "1.0.0",
           "MicroRabbit.Banking.Data": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
@@ -983,6 +984,10 @@
         }
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MediatR": "8.1.0",
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Banking.Domain.dll": {}
         }
