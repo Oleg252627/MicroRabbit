@@ -1,4 +1,9 @@
-﻿using MicroRabbit.Domain.Core.Bus;
+﻿using MicroRabbit.Banking.Aplication.Interfaces;
+using MicroRabbit.Banking.Aplication.Services;
+using MicroRabbit.Banking.Data.Context;
+using MicroRabbit.Banking.Data.Repository;
+using MicroRabbit.Banking.Domain.Interfaces;
+using MicroRabbit.Domain.Core.Bus;
 using MicroRabbit.Infra.Bus;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -13,6 +18,13 @@ namespace MicroRabbit.Infra.LoC
         {
             // Domain Bus
             services.AddTransient<IEventBus, RabbitMQBus>();
+
+            // Aplication Services
+            services.AddScoped<IAccountService, AccountService>();
+
+            //Data
+            services.AddTransient<BankingDbContext>();
+            services.AddTransient<IAccountRepository, AccountRepository>();
         }
     }
 }

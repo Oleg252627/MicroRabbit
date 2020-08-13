@@ -1,8 +1,8 @@
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.deps.json
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb

@@ -1,12 +1,12 @@
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfo.cs
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.deps.json
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.AssemblyInfo.cs
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CopyComplete
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
-D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
