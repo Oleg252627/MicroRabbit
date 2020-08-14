@@ -18,3 +18,9 @@ D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debu
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.dll
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.pdb
 D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.LoC.csproj.CoreCompileInputs.cache
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Data.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Domain.pdb
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Aplication.dll
+D:\Visual Studio\RabbitMQ\MicroRabbit\MicroRabbit\MicroRabbit.Infra.LoC\bin\Debug\netcoreapp3.1\MicroRabbit.Transfer.Aplication.pdb

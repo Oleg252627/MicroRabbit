@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "id2f+KQ28BBkQ8DdKEX3kbCfoGwEVnweNDt3GMNS+LPJu4Sla+3JG7WlM0mAMBrBqUqsRRF0uh+xjf+xHiyF4w==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oplet\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
