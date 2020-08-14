@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DA161MEEXgtDJGwHE28sRkqmVjtAmYO6n8LyjrKo58C/1rT3MS/AmTWyLPRIYNnnwmbzSS+qTGT5XGdESBdifQ==",
+  "dgSpecHash": "+sh+L0bONvltORS3INm7+PF8fPgVtvP6R5SZ+IYMZ8bcZfwQNW+zSzZjJts9sq+P+I2ZOWjMFA+6w/cJm2GKFQ==",
   "success": true,
   "projectFilePath": "D:\\Visual Studio\\RabbitMQ\\MicroRabbit\\MicroRabbit\\MicroRabbit.Infra.Bus\\MicroRabbit.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oplet\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\oplet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\oplet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
     "C:\\Users\\oplet\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
